@@ -13,6 +13,11 @@ In Favourites tab user can view saved recipe and interact with it.
 
 Food Joke tab will fetch a food joke from spoonacular api and display it.
 
+## Screenshots
+
+
+<img src = "screenshots/Screenshot_20210516-065043.jpg" width ="200" /> <img src = "screenshots/Screenshot_20210516-065136.jpg" width ="200" /> <img src = "screenshots/Screenshot_20210516-065143.jpg" width ="200" />
+
 ## Built with
   * Room
   * Jetpack Navigation
